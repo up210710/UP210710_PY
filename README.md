@@ -9,7 +9,7 @@
 ## Juan Manuel Rios Estrada---UP210710
 
 <div align="center">
-<img alt="Xd" src='imagenes/Python.png' width='400'>
+<img alt="Xd" src='U1_NetAcad/imagenes/Python.png' width='400'>
 </div>
 
 </center>
