@@ -1,7 +1,7 @@
 <center>
 
 <div align="center">
-<img alt="Xd" src='imagenes/giphy.gif' width='400'>
+<img alt="Xd" src='U1_NetAcad/imagenes/giphy.gif' width='400'>
 </div>
 
 # Polytechnic University of Aguascalientes
